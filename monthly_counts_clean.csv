@@ -1,0 +1,652 @@
+id,date,counts,name
+100009425,2016-11,38272,Prospect Park West
+100009425,2016-12,35955,Prospect Park West
+100009425,2017-01,32039,Prospect Park West
+100009425,2017-02,36430,Prospect Park West
+100009425,2017-03,35263,Prospect Park West
+100009425,2017-04,63343,Prospect Park West
+100009425,2017-05,68620,Prospect Park West
+100009425,2017-06,83533,Prospect Park West
+100009425,2017-07,85501,Prospect Park West
+100009425,2017-08,81250,Prospect Park West
+100009425,2017-09,82350,Prospect Park West
+100009425,2017-10,77003,Prospect Park West
+100009425,2017-11,55561,Prospect Park West
+100009425,2017-12,39099,Prospect Park West
+100009425,2018-01,32889,Prospect Park West
+100009425,2018-02,36569,Prospect Park West
+100009425,2018-03,42969,Prospect Park West
+100009425,2018-04,58473,Prospect Park West
+100009425,2018-05,74643,Prospect Park West
+100009425,2018-06,83958,Prospect Park West
+100009425,2018-07,84075,Prospect Park West
+100009425,2018-08,77449,Prospect Park West
+100009425,2018-09,75345,Prospect Park West
+100009425,2018-10,71307,Prospect Park West
+100009425,2018-11,51478,Prospect Park West
+100009425,2018-12,43075,Prospect Park West
+100009425,2019-01,41954,Prospect Park West
+100009425,2019-02,38666,Prospect Park West
+100009425,2019-03,50691,Prospect Park West
+100009425,2019-04,67085,Prospect Park West
+100009425,2019-05,77645,Prospect Park West
+100009425,2019-06,91040,Prospect Park West
+100009425,2019-07,83462,Prospect Park West
+100009425,2019-08,84881,Prospect Park West
+100009425,2019-09,88917,Prospect Park West
+100009425,2019-10,72341,Prospect Park West
+100009425,2019-11,58155,Prospect Park West
+100009425,2019-12,41080,Prospect Park West
+100009425,2020-01,67462,Prospect Park West
+100009425,2020-02,138177,Prospect Park West
+100009425,2020-03,144459,Prospect Park West
+100009425,2020-04,71079,Prospect Park West
+100009425,2020-05,93743,Prospect Park West
+100009425,2020-06,53747,Prospect Park West
+100009426,2013-12,1347,Manhattan Bridge Ped Path
+100009426,2014-01,1215,Manhattan Bridge Ped Path
+100009426,2014-02,1097,Manhattan Bridge Ped Path
+100009426,2014-03,1996,Manhattan Bridge Ped Path
+100009426,2014-04,3534,Manhattan Bridge Ped Path
+100009426,2014-05,4584,Manhattan Bridge Ped Path
+100009426,2014-06,4840,Manhattan Bridge Ped Path
+100009426,2014-07,5354,Manhattan Bridge Ped Path
+100009426,2014-08,4819,Manhattan Bridge Ped Path
+100009426,2014-09,3607,Manhattan Bridge Ped Path
+100009426,2014-10,3003,Manhattan Bridge Ped Path
+100009426,2014-11,1922,Manhattan Bridge Ped Path
+100009426,2014-12,1709,Manhattan Bridge Ped Path
+100009426,2015-01,1268,Manhattan Bridge Ped Path
+100009426,2015-02,870,Manhattan Bridge Ped Path
+100009426,2015-03,1738,Manhattan Bridge Ped Path
+100009426,2015-04,3701,Manhattan Bridge Ped Path
+100009426,2015-05,5380,Manhattan Bridge Ped Path
+100009426,2015-06,5016,Manhattan Bridge Ped Path
+100009426,2015-07,6288,Manhattan Bridge Ped Path
+100009426,2015-08,6831,Manhattan Bridge Ped Path
+100009426,2015-09,6027,Manhattan Bridge Ped Path
+100009426,2015-10,4666,Manhattan Bridge Ped Path
+100009426,2015-11,3564,Manhattan Bridge Ped Path
+100009426,2015-12,2948,Manhattan Bridge Ped Path
+100009426,2016-01,1982,Manhattan Bridge Ped Path
+100009426,2016-02,1960,Manhattan Bridge Ped Path
+100009426,2016-03,3581,Manhattan Bridge Ped Path
+100009426,2016-04,4572,Manhattan Bridge Ped Path
+100009426,2016-05,5310,Manhattan Bridge Ped Path
+100009426,2016-06,6116,Manhattan Bridge Ped Path
+100009426,2016-07,6274,Manhattan Bridge Ped Path
+100009426,2016-08,6702,Manhattan Bridge Ped Path
+100009426,2016-09,6338,Manhattan Bridge Ped Path
+100009426,2016-10,5026,Manhattan Bridge Ped Path
+100009426,2016-11,4036,Manhattan Bridge Ped Path
+100009426,2016-12,2993,Manhattan Bridge Ped Path
+100009426,2017-01,2649,Manhattan Bridge Ped Path
+100009426,2017-02,3156,Manhattan Bridge Ped Path
+100009426,2017-03,2725,Manhattan Bridge Ped Path
+100009426,2017-04,5392,Manhattan Bridge Ped Path
+100009426,2017-05,6078,Manhattan Bridge Ped Path
+100009426,2017-06,6707,Manhattan Bridge Ped Path
+100009426,2017-07,7469,Manhattan Bridge Ped Path
+100009426,2017-08,7994,Manhattan Bridge Ped Path
+100009426,2017-09,7422,Manhattan Bridge Ped Path
+100009426,2017-10,7515,Manhattan Bridge Ped Path
+100009426,2017-11,4433,Manhattan Bridge Ped Path
+100009426,2017-12,2900,Manhattan Bridge Ped Path
+100009426,2018-01,2469,Manhattan Bridge Ped Path
+100009426,2018-02,3146,Manhattan Bridge Ped Path
+100009426,2018-03,3466,Manhattan Bridge Ped Path
+100009426,2018-04,4639,Manhattan Bridge Ped Path
+100009426,2018-05,6674,Manhattan Bridge Ped Path
+100009426,2018-06,7940,Manhattan Bridge Ped Path
+100009426,2018-07,7005,Manhattan Bridge Ped Path
+100009426,2018-08,6395,Manhattan Bridge Ped Path
+100009426,2018-09,6009,Manhattan Bridge Ped Path
+100009426,2018-10,5492,Manhattan Bridge Ped Path
+100009426,2018-11,3626,Manhattan Bridge Ped Path
+100009426,2018-12,2983,Manhattan Bridge Ped Path
+100009426,2019-01,2404,Manhattan Bridge Ped Path
+100009426,2019-02,2563,Manhattan Bridge Ped Path
+100009426,2019-03,3539,Manhattan Bridge Ped Path
+100009426,2019-04,5198,Manhattan Bridge Ped Path
+100009426,2019-05,5911,Manhattan Bridge Ped Path
+100009426,2019-06,6496,Manhattan Bridge Ped Path
+100009426,2019-07,6945,Manhattan Bridge Ped Path
+100009426,2019-08,7056,Manhattan Bridge Ped Path
+100009426,2019-09,6909,Manhattan Bridge Ped Path
+100009426,2019-10,5153,Manhattan Bridge Ped Path
+100009426,2019-11,3382,Manhattan Bridge Ped Path
+100009426,2019-12,2386,Manhattan Bridge Ped Path
+100009426,2020-01,3946,Manhattan Bridge Ped Path
+100009426,2020-02,7884,Manhattan Bridge Ped Path
+100009426,2020-03,9600,Manhattan Bridge Ped Path
+100009426,2020-04,5698,Manhattan Bridge Ped Path
+100009426,2020-05,7924,Manhattan Bridge Ped Path
+100009426,2020-06,4933,Manhattan Bridge Ped Path
+100009427,2013-12,54653,Williamsburg Bridge Bike Path
+100009427,2014-01,41692,Williamsburg Bridge Bike Path
+100009427,2014-02,34168,Williamsburg Bridge Bike Path
+100009427,2014-03,74091,Williamsburg Bridge Bike Path
+100009427,2014-04,134031,Williamsburg Bridge Bike Path
+100009427,2014-05,181715,Williamsburg Bridge Bike Path
+100009427,2014-06,200950,Williamsburg Bridge Bike Path
+100009427,2014-07,205069,Williamsburg Bridge Bike Path
+100009427,2014-08,208860,Williamsburg Bridge Bike Path
+100009427,2014-09,197335,Williamsburg Bridge Bike Path
+100009427,2014-10,164480,Williamsburg Bridge Bike Path
+100009427,2014-11,95928,Williamsburg Bridge Bike Path
+100009427,2014-12,64490,Williamsburg Bridge Bike Path
+100009427,2015-01,42019,Williamsburg Bridge Bike Path
+100009427,2015-02,25492,Williamsburg Bridge Bike Path
+100009427,2015-03,63096,Williamsburg Bridge Bike Path
+100009427,2015-04,151140,Williamsburg Bridge Bike Path
+100009427,2015-05,219240,Williamsburg Bridge Bike Path
+100009427,2015-06,186583,Williamsburg Bridge Bike Path
+100009427,2015-07,203547,Williamsburg Bridge Bike Path
+100009427,2015-08,215483,Williamsburg Bridge Bike Path
+100009427,2015-09,206019,Williamsburg Bridge Bike Path
+100009427,2015-10,168514,Williamsburg Bridge Bike Path
+100009427,2015-11,131344,Williamsburg Bridge Bike Path
+100009427,2015-12,97191,Williamsburg Bridge Bike Path
+100009427,2016-01,60899,Williamsburg Bridge Bike Path
+100009427,2016-02,64731,Williamsburg Bridge Bike Path
+100009427,2016-03,127931,Williamsburg Bridge Bike Path
+100009427,2016-04,145919,Williamsburg Bridge Bike Path
+100009427,2016-05,173626,Williamsburg Bridge Bike Path
+100009427,2016-06,218633,Williamsburg Bridge Bike Path
+100009427,2016-07,194781,Williamsburg Bridge Bike Path
+100009427,2016-08,211541,Williamsburg Bridge Bike Path
+100009427,2016-09,197796,Williamsburg Bridge Bike Path
+100009427,2016-10,176085,Williamsburg Bridge Bike Path
+100009427,2016-11,127524,Williamsburg Bridge Bike Path
+100009427,2016-12,76939,Williamsburg Bridge Bike Path
+100009427,2017-01,69271,Williamsburg Bridge Bike Path
+100009427,2017-02,83716,Williamsburg Bridge Bike Path
+100009427,2017-03,73559,Williamsburg Bridge Bike Path
+100009427,2017-04,148359,Williamsburg Bridge Bike Path
+100009427,2017-05,177159,Williamsburg Bridge Bike Path
+100009427,2017-06,198781,Williamsburg Bridge Bike Path
+100009427,2017-07,188090,Williamsburg Bridge Bike Path
+100009427,2017-08,198658,Williamsburg Bridge Bike Path
+100009427,2017-09,198404,Williamsburg Bridge Bike Path
+100009427,2017-10,185745,Williamsburg Bridge Bike Path
+100009427,2017-11,122012,Williamsburg Bridge Bike Path
+100009427,2017-12,73484,Williamsburg Bridge Bike Path
+100009427,2018-01,56600,Williamsburg Bridge Bike Path
+100009427,2018-02,72110,Williamsburg Bridge Bike Path
+100009427,2018-03,80244,Williamsburg Bridge Bike Path
+100009427,2018-04,117491,Williamsburg Bridge Bike Path
+100009427,2018-05,180084,Williamsburg Bridge Bike Path
+100009427,2018-06,192324,Williamsburg Bridge Bike Path
+100009427,2018-07,180935,Williamsburg Bridge Bike Path
+100009427,2018-08,183377,Williamsburg Bridge Bike Path
+100009427,2018-09,161792,Williamsburg Bridge Bike Path
+100009427,2018-10,170737,Williamsburg Bridge Bike Path
+100009427,2018-11,99727,Williamsburg Bridge Bike Path
+100009427,2018-12,73597,Williamsburg Bridge Bike Path
+100009427,2019-01,68047,Williamsburg Bridge Bike Path
+100009427,2019-02,71462,Williamsburg Bridge Bike Path
+100009427,2019-03,99802,Williamsburg Bridge Bike Path
+100009427,2019-04,146807,Williamsburg Bridge Bike Path
+100009427,2019-05,171246,Williamsburg Bridge Bike Path
+100009427,2019-06,185716,Williamsburg Bridge Bike Path
+100009427,2019-07,184614,Williamsburg Bridge Bike Path
+100009427,2019-08,199009,Williamsburg Bridge Bike Path
+100009427,2019-09,207790,Williamsburg Bridge Bike Path
+100009427,2019-10,163751,Williamsburg Bridge Bike Path
+100009427,2019-11,113871,Williamsburg Bridge Bike Path
+100009427,2019-12,66817,Williamsburg Bridge Bike Path
+100009427,2020-01,127307,Williamsburg Bridge Bike Path
+100009427,2020-02,253668,Williamsburg Bridge Bike Path
+100009427,2020-03,302647,Williamsburg Bridge Bike Path
+100009427,2020-04,136395,Williamsburg Bridge Bike Path
+100009427,2020-05,186984,Williamsburg Bridge Bike Path
+100009427,2020-06,107001,Williamsburg Bridge Bike Path
+100009428,2013-12,30948,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-01,27048,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-02,22048,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-03,49185,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-04,89128,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-05,118030,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-06,133436,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-07,141625,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-08,148298,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-09,139025,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-10,113054,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-11,70169,Ed Koch Queensboro Bridge Shared Path
+100009428,2014-12,51348,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-01,33868,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-02,21352,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-03,49686,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-04,104893,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-05,146968,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-06,132678,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-07,148769,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-08,158258,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-09,148931,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-10,120133,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-11,96541,Ed Koch Queensboro Bridge Shared Path
+100009428,2015-12,75367,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-01,48548,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-02,53096,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-03,95096,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-04,100727,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-05,118397,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-06,144470,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-07,144802,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-08,157072,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-09,140462,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-10,114568,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-11,93395,Ed Koch Queensboro Bridge Shared Path
+100009428,2016-12,63458,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-01,55682,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-02,61319,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-03,54010,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-04,104495,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-05,126467,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-06,141925,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-07,141250,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-08,160299,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-09,151610,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-10,147909,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-11,100398,Ed Koch Queensboro Bridge Shared Path
+100009428,2017-12,71533,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-01,49528,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-02,58369,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-03,64309,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-04,89915,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-05,135071,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-06,144092,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-07,140044,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-08,140294,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-09,120646,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-10,122132,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-11,76149,Ed Koch Queensboro Bridge Shared Path
+100009428,2018-12,62026,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-01,55895,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-02,54777,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-03,73808,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-04,103877,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-05,119263,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-06,125571,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-07,135949,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-08,144003,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-09,141060,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-10,116161,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-11,84128,Ed Koch Queensboro Bridge Shared Path
+100009428,2019-12,57951,Ed Koch Queensboro Bridge Shared Path
+100009428,2020-01,88042,Ed Koch Queensboro Bridge Shared Path
+100009428,2020-02,136468,Ed Koch Queensboro Bridge Shared Path
+100009428,2020-03,121482,Ed Koch Queensboro Bridge Shared Path
+100009428,2020-04,67641,Ed Koch Queensboro Bridge Shared Path
+100009428,2020-05,137178,Ed Koch Queensboro Bridge Shared Path
+100009428,2020-06,39653,Ed Koch Queensboro Bridge Shared Path
+100010017,2016-03,492,Staten Island Ferry
+100010017,2016-04,13495,Staten Island Ferry
+100010017,2016-05,14905,Staten Island Ferry
+100010017,2016-06,18038,Staten Island Ferry
+100010017,2016-07,17578,Staten Island Ferry
+100010017,2016-08,19461,Staten Island Ferry
+100010017,2016-09,17363,Staten Island Ferry
+100010017,2016-10,14549,Staten Island Ferry
+100010017,2016-11,11104,Staten Island Ferry
+100010017,2016-12,8443,Staten Island Ferry
+100010017,2017-01,7812,Staten Island Ferry
+100010017,2017-02,8261,Staten Island Ferry
+100010017,2017-03,7572,Staten Island Ferry
+100010017,2017-04,12834,Staten Island Ferry
+100010017,2017-05,14770,Staten Island Ferry
+100010017,2017-06,16027,Staten Island Ferry
+100010017,2017-07,17025,Staten Island Ferry
+100010017,2017-08,17962,Staten Island Ferry
+100010017,2017-09,15398,Staten Island Ferry
+100010017,2017-10,13412,Staten Island Ferry
+100010017,2017-11,9803,Staten Island Ferry
+100010017,2017-12,7387,Staten Island Ferry
+100010017,2018-01,6206,Staten Island Ferry
+100010017,2018-02,6656,Staten Island Ferry
+100010017,2018-03,6978,Staten Island Ferry
+100010017,2018-04,9700,Staten Island Ferry
+100010017,2018-05,12762,Staten Island Ferry
+100010017,2018-06,13585,Staten Island Ferry
+100010017,2018-07,14349,Staten Island Ferry
+100010017,2018-08,13900,Staten Island Ferry
+100010017,2018-09,12896,Staten Island Ferry
+100010017,2018-10,12500,Staten Island Ferry
+100010017,2018-11,8691,Staten Island Ferry
+100010017,2018-12,7632,Staten Island Ferry
+100010017,2019-01,7144,Staten Island Ferry
+100010017,2019-02,6739,Staten Island Ferry
+100010017,2019-03,8142,Staten Island Ferry
+100010017,2019-04,10882,Staten Island Ferry
+100010017,2019-05,12780,Staten Island Ferry
+100010017,2019-06,13138,Staten Island Ferry
+100010017,2019-07,13811,Staten Island Ferry
+100010017,2019-08,14868,Staten Island Ferry
+100010017,2019-09,13951,Staten Island Ferry
+100010017,2019-10,11674,Staten Island Ferry
+100010017,2019-11,9584,Staten Island Ferry
+100010017,2019-12,7096,Staten Island Ferry
+100010017,2020-01,10154,Staten Island Ferry
+100010017,2020-02,15314,Staten Island Ferry
+100010017,2020-03,12337,Staten Island Ferry
+100010017,2020-04,4840,Staten Island Ferry
+100010017,2020-05,9012,Staten Island Ferry
+100010017,2020-06,5571,Staten Island Ferry
+100010018,2017-06,17209,Pulaski Bridge
+100010018,2017-07,68145,Pulaski Bridge
+100010018,2017-08,70308,Pulaski Bridge
+100010018,2017-09,72348,Pulaski Bridge
+100010018,2017-10,62994,Pulaski Bridge
+100010018,2017-11,40760,Pulaski Bridge
+100010018,2017-12,26891,Pulaski Bridge
+100010018,2018-01,21246,Pulaski Bridge
+100010018,2018-02,26802,Pulaski Bridge
+100010018,2018-03,30530,Pulaski Bridge
+100010018,2018-04,43041,Pulaski Bridge
+100010018,2018-05,61451,Pulaski Bridge
+100010018,2018-06,67319,Pulaski Bridge
+100010018,2018-07,67830,Pulaski Bridge
+100010018,2018-08,65686,Pulaski Bridge
+100010018,2018-09,62602,Pulaski Bridge
+100010018,2018-10,57309,Pulaski Bridge
+100010018,2018-11,34977,Pulaski Bridge
+100010018,2018-12,28505,Pulaski Bridge
+100010018,2019-01,26455,Pulaski Bridge
+100010018,2019-02,26306,Pulaski Bridge
+100010018,2019-03,36447,Pulaski Bridge
+100010018,2019-04,52402,Pulaski Bridge
+100010018,2019-05,59392,Pulaski Bridge
+100010018,2019-06,65756,Pulaski Bridge
+100010018,2019-07,64223,Pulaski Bridge
+100010018,2019-08,68244,Pulaski Bridge
+100010018,2019-09,72399,Pulaski Bridge
+100010018,2019-10,55042,Pulaski Bridge
+100010018,2019-11,37155,Pulaski Bridge
+100010018,2019-12,22734,Pulaski Bridge
+100010018,2020-01,38079,Pulaski Bridge
+100010018,2020-02,58214,Pulaski Bridge
+100010018,2020-03,62811,Pulaski Bridge
+100010018,2020-04,39959,Pulaski Bridge
+100010018,2020-05,83938,Pulaski Bridge
+100010018,2020-06,44971,Pulaski Bridge
+100010019,2016-11,9332,Kent Avenue Bike Path
+100010019,2016-12,35251,Kent Avenue Bike Path
+100010019,2017-01,32010,Kent Avenue Bike Path
+100010019,2017-02,40789,Kent Avenue Bike Path
+100010019,2017-03,34977,Kent Avenue Bike Path
+100010019,2017-04,80899,Kent Avenue Bike Path
+100010019,2017-05,93551,Kent Avenue Bike Path
+100010019,2017-06,112507,Kent Avenue Bike Path
+100010019,2017-07,114776,Kent Avenue Bike Path
+100010019,2017-08,112560,Kent Avenue Bike Path
+100010019,2017-09,113152,Kent Avenue Bike Path
+100010019,2017-10,95945,Kent Avenue Bike Path
+100010019,2017-11,59370,Kent Avenue Bike Path
+100010019,2017-12,37439,Kent Avenue Bike Path
+100010019,2018-01,29307,Kent Avenue Bike Path
+100010019,2018-02,36375,Kent Avenue Bike Path
+100010019,2018-03,40898,Kent Avenue Bike Path
+100010019,2018-04,66346,Kent Avenue Bike Path
+100010019,2018-05,98194,Kent Avenue Bike Path
+100010019,2018-06,109333,Kent Avenue Bike Path
+100010019,2018-07,107743,Kent Avenue Bike Path
+100010019,2018-08,100440,Kent Avenue Bike Path
+100010019,2018-09,93066,Kent Avenue Bike Path
+100010019,2018-10,81621,Kent Avenue Bike Path
+100010019,2018-11,47330,Kent Avenue Bike Path
+100010019,2018-12,36006,Kent Avenue Bike Path
+100010019,2019-01,32965,Kent Avenue Bike Path
+100010019,2019-02,34530,Kent Avenue Bike Path
+100010019,2019-03,49935,Kent Avenue Bike Path
+100010019,2019-04,76026,Kent Avenue Bike Path
+100010019,2019-05,92881,Kent Avenue Bike Path
+100010019,2019-06,103258,Kent Avenue Bike Path
+100010019,2019-07,99663,Kent Avenue Bike Path
+100010019,2019-08,106754,Kent Avenue Bike Path
+100010019,2019-09,105192,Kent Avenue Bike Path
+100010019,2019-10,76984,Kent Avenue Bike Path
+100010019,2019-11,51940,Kent Avenue Bike Path
+100010019,2019-12,35149,Kent Avenue Bike Path
+100010019,2020-01,50153,Kent Avenue Bike Path
+100010019,2020-02,80680,Kent Avenue Bike Path
+100010019,2020-03,89382,Kent Avenue Bike Path
+100010019,2020-04,57345,Kent Avenue Bike Path
+100010019,2020-05,121864,Kent Avenue Bike Path
+100010019,2020-06,67815,Kent Avenue Bike Path
+100010020,2013-09,0,1st Avenue - 26th St N
+100010020,2013-10,0,1st Avenue - 26th St N
+100010020,2013-11,0,1st Avenue - 26th St N
+100010020,2013-12,0,1st Avenue - 26th St N
+100010020,2014-01,0,1st Avenue - 26th St N
+100010020,2014-02,0,1st Avenue - 26th St N
+100010020,2014-03,0,1st Avenue - 26th St N
+100010020,2014-04,0,1st Avenue - 26th St N
+100010020,2014-05,0,1st Avenue - 26th St N
+100010020,2014-06,0,1st Avenue - 26th St N
+100010020,2014-07,0,1st Avenue - 26th St N
+100010020,2014-08,0,1st Avenue - 26th St N
+100010020,2014-09,0,1st Avenue - 26th St N
+100010020,2014-10,0,1st Avenue - 26th St N
+100010020,2014-11,0,1st Avenue - 26th St N
+100010020,2014-12,0,1st Avenue - 26th St N
+100010020,2015-01,0,1st Avenue - 26th St N
+100010020,2015-02,0,1st Avenue - 26th St N
+100010020,2015-03,0,1st Avenue - 26th St N
+100010020,2015-04,0,1st Avenue - 26th St N
+100010020,2015-05,69051,1st Avenue - 26th St N
+100010020,2015-06,112620,1st Avenue - 26th St N
+100010020,2015-07,25505,1st Avenue - 26th St N
+100010020,2015-08,40643,1st Avenue - 26th St N
+100010020,2015-09,52810,1st Avenue - 26th St N
+100010020,2015-10,414167,1st Avenue - 26th St N
+100010020,2015-11,750459,1st Avenue - 26th St N
+100010020,2015-12,930480,1st Avenue - 26th St N
+100010020,2016-01,1155453,1st Avenue - 26th St N
+100010020,2016-02,1121975,1st Avenue - 26th St N
+100010020,2016-03,654848,1st Avenue - 26th St N
+100010020,2016-04,338467,1st Avenue - 26th St N
+100010020,2016-05,0,1st Avenue - 26th St N
+100010020,2016-06,0,1st Avenue - 26th St N
+100010020,2016-07,0,1st Avenue - 26th St N
+100010020,2016-08,95840,1st Avenue - 26th St N
+100010020,2016-09,120039,1st Avenue - 26th St N
+100010020,2016-10,90852,1st Avenue - 26th St N
+100010020,2016-11,61812,1st Avenue - 26th St N
+100010020,2016-12,53056,1st Avenue - 26th St N
+100010020,2017-01,48183,1st Avenue - 26th St N
+100010020,2017-02,48960,1st Avenue - 26th St N
+100010020,2017-03,45261,1st Avenue - 26th St N
+100010020,2017-04,69362,1st Avenue - 26th St N
+100010020,2017-05,92779,1st Avenue - 26th St N
+100010020,2017-06,111310,1st Avenue - 26th St N
+100010020,2017-07,101203,1st Avenue - 26th St N
+100010020,2017-08,106501,1st Avenue - 26th St N
+100010020,2017-09,100876,1st Avenue - 26th St N
+100010020,2017-10,102604,1st Avenue - 26th St N
+100010020,2017-11,63410,1st Avenue - 26th St N
+100010020,2017-12,43661,1st Avenue - 26th St N
+100010020,2018-01,34543,1st Avenue - 26th St N
+100010020,2018-02,40546,1st Avenue - 26th St N
+100010020,2018-03,45243,1st Avenue - 26th St N
+100010020,2018-04,57432,1st Avenue - 26th St N
+100010020,2018-05,93858,1st Avenue - 26th St N
+100010020,2018-06,91873,1st Avenue - 26th St N
+100010020,2018-07,96809,1st Avenue - 26th St N
+100010020,2018-08,98615,1st Avenue - 26th St N
+100010020,2018-09,90373,1st Avenue - 26th St N
+100010020,2018-10,86259,1st Avenue - 26th St N
+100010020,2018-11,56284,1st Avenue - 26th St N
+100010020,2018-12,47288,1st Avenue - 26th St N
+100010020,2019-01,44449,1st Avenue - 26th St N
+100010020,2019-02,42942,1st Avenue - 26th St N
+100010020,2019-03,54710,1st Avenue - 26th St N
+100010020,2019-04,74476,1st Avenue - 26th St N
+100010020,2019-05,84212,1st Avenue - 26th St N
+100010020,2019-06,31791,1st Avenue - 26th St N
+100010020,2019-07,0,1st Avenue - 26th St N
+100010020,2019-08,0,1st Avenue - 26th St N
+100010020,2019-09,0,1st Avenue - 26th St N
+100010020,2019-10,0,1st Avenue - 26th St N
+100010020,2019-11,0,1st Avenue - 26th St N
+100010020,2019-12,0,1st Avenue - 26th St N
+100010022,2013-12,8241,Brooklyn Bridge Bike Path
+100010022,2014-01,14579,Brooklyn Bridge Bike Path
+100010022,2014-02,10504,Brooklyn Bridge Bike Path
+100010022,2014-03,28589,Brooklyn Bridge Bike Path
+100010022,2014-04,63412,Brooklyn Bridge Bike Path
+100010022,2014-05,91028,Brooklyn Bridge Bike Path
+100010022,2014-06,95567,Brooklyn Bridge Bike Path
+100010022,2014-07,94239,Brooklyn Bridge Bike Path
+100010022,2014-08,98386,Brooklyn Bridge Bike Path
+100010022,2014-09,40748,Brooklyn Bridge Bike Path
+100010022,2014-10,0,Brooklyn Bridge Bike Path
+100010022,2014-11,0,Brooklyn Bridge Bike Path
+100010022,2014-12,12763,Brooklyn Bridge Bike Path
+100010022,2015-01,14553,Brooklyn Bridge Bike Path
+100010022,2015-02,7744,Brooklyn Bridge Bike Path
+100010022,2015-03,24134,Brooklyn Bridge Bike Path
+100010022,2015-04,64031,Brooklyn Bridge Bike Path
+100010022,2015-05,104890,Brooklyn Bridge Bike Path
+100010022,2015-06,87135,Brooklyn Bridge Bike Path
+100010022,2015-07,100783,Brooklyn Bridge Bike Path
+100010022,2015-08,112549,Brooklyn Bridge Bike Path
+100010022,2015-09,101477,Brooklyn Bridge Bike Path
+100010022,2015-10,76984,Brooklyn Bridge Bike Path
+100010022,2015-11,56371,Brooklyn Bridge Bike Path
+100010022,2015-12,41299,Brooklyn Bridge Bike Path
+100010022,2016-01,23112,Brooklyn Bridge Bike Path
+100010022,2016-02,25328,Brooklyn Bridge Bike Path
+100010022,2016-03,57882,Brooklyn Bridge Bike Path
+100010022,2016-04,68162,Brooklyn Bridge Bike Path
+100010022,2016-05,84445,Brooklyn Bridge Bike Path
+100010022,2016-06,108420,Brooklyn Bridge Bike Path
+100010022,2016-07,114948,Brooklyn Bridge Bike Path
+100010022,2016-08,106064,Brooklyn Bridge Bike Path
+100010022,2016-09,90578,Brooklyn Bridge Bike Path
+100010022,2016-10,76119,Brooklyn Bridge Bike Path
+100010022,2016-11,52485,Brooklyn Bridge Bike Path
+100010022,2016-12,28375,Brooklyn Bridge Bike Path
+100010022,2017-01,23668,Brooklyn Bridge Bike Path
+100010022,2017-02,31332,Brooklyn Bridge Bike Path
+100010022,2017-03,27568,Brooklyn Bridge Bike Path
+100010022,2017-04,67518,Brooklyn Bridge Bike Path
+100010022,2017-05,76022,Brooklyn Bridge Bike Path
+100010022,2017-06,82728,Brooklyn Bridge Bike Path
+100010022,2017-07,85417,Brooklyn Bridge Bike Path
+100010022,2017-08,94877,Brooklyn Bridge Bike Path
+100010022,2017-09,86869,Brooklyn Bridge Bike Path
+100010022,2017-10,80113,Brooklyn Bridge Bike Path
+100010022,2017-11,46532,Brooklyn Bridge Bike Path
+100010022,2017-12,27517,Brooklyn Bridge Bike Path
+100010022,2018-01,20525,Brooklyn Bridge Bike Path
+100010022,2018-02,28776,Brooklyn Bridge Bike Path
+100010022,2018-03,31311,Brooklyn Bridge Bike Path
+100010022,2018-04,51769,Brooklyn Bridge Bike Path
+100010022,2018-05,88888,Brooklyn Bridge Bike Path
+100010022,2018-06,84047,Brooklyn Bridge Bike Path
+100010022,2018-07,85581,Brooklyn Bridge Bike Path
+100010022,2018-08,89839,Brooklyn Bridge Bike Path
+100010022,2018-09,74136,Brooklyn Bridge Bike Path
+100010022,2018-10,68900,Brooklyn Bridge Bike Path
+100010022,2018-11,33803,Brooklyn Bridge Bike Path
+100010022,2018-12,23345,Brooklyn Bridge Bike Path
+100010022,2019-01,20859,Brooklyn Bridge Bike Path
+100010022,2019-02,20571,Brooklyn Bridge Bike Path
+100010022,2019-03,30481,Brooklyn Bridge Bike Path
+100010022,2019-04,57172,Brooklyn Bridge Bike Path
+100010022,2019-05,62326,Brooklyn Bridge Bike Path
+100010022,2019-06,63133,Brooklyn Bridge Bike Path
+100010022,2019-07,66634,Brooklyn Bridge Bike Path
+100010022,2019-08,76513,Brooklyn Bridge Bike Path
+100010022,2019-09,71794,Brooklyn Bridge Bike Path
+100010022,2019-10,54997,Brooklyn Bridge Bike Path
+100010022,2019-11,32878,Brooklyn Bridge Bike Path
+100010022,2019-12,16149,Brooklyn Bridge Bike Path
+100010022,2020-01,28605,Brooklyn Bridge Bike Path
+100010022,2020-02,42648,Brooklyn Bridge Bike Path
+100010022,2020-03,51681,Brooklyn Bridge Bike Path
+100010022,2020-04,26736,Brooklyn Bridge Bike Path
+100010022,2020-05,57239,Brooklyn Bridge Bike Path
+100010022,2020-06,28068,Brooklyn Bridge Bike Path
+100047029,2018-05,0,Manhattan Bridge Display Bike Counter
+100047029,2018-06,18470,Manhattan Bridge Display Bike Counter
+100047029,2018-07,144403,Manhattan Bridge Display Bike Counter
+100047029,2018-08,147034,Manhattan Bridge Display Bike Counter
+100047029,2018-09,136628,Manhattan Bridge Display Bike Counter
+100047029,2018-10,144634,Manhattan Bridge Display Bike Counter
+100047029,2018-11,84179,Manhattan Bridge Display Bike Counter
+100047029,2018-12,64828,Manhattan Bridge Display Bike Counter
+100047029,2019-01,59413,Manhattan Bridge Display Bike Counter
+100047029,2019-02,57267,Manhattan Bridge Display Bike Counter
+100047029,2019-03,83463,Manhattan Bridge Display Bike Counter
+100047029,2019-04,129441,Manhattan Bridge Display Bike Counter
+100047029,2019-05,134064,Manhattan Bridge Display Bike Counter
+100047029,2019-06,136963,Manhattan Bridge Display Bike Counter
+100047029,2019-07,143530,Manhattan Bridge Display Bike Counter
+100047029,2019-08,153675,Manhattan Bridge Display Bike Counter
+100047029,2019-09,160758,Manhattan Bridge Display Bike Counter
+100047029,2019-10,129677,Manhattan Bridge Display Bike Counter
+100047029,2019-11,92166,Manhattan Bridge Display Bike Counter
+100047029,2019-12,51480,Manhattan Bridge Display Bike Counter
+100047029,2020-01,90015,Manhattan Bridge Display Bike Counter
+100047029,2020-02,131806,Manhattan Bridge Display Bike Counter
+100047029,2020-03,147112,Manhattan Bridge Display Bike Counter
+100047029,2020-04,56564,Manhattan Bridge Display Bike Counter
+100047029,2020-05,118925,Manhattan Bridge Display Bike Counter
+100047029,2020-06,70134,Manhattan Bridge Display Bike Counter
+100057316,2018-06,0,8th Ave at 50th St.
+100057316,2018-07,0,8th Ave at 50th St.
+100057316,2018-08,0,8th Ave at 50th St.
+100057316,2018-09,0,8th Ave at 50th St.
+100057316,2018-10,0,8th Ave at 50th St.
+100057316,2018-11,0,8th Ave at 50th St.
+100057316,2018-12,0,8th Ave at 50th St.
+100057316,2019-01,0,8th Ave at 50th St.
+100057316,2019-02,0,8th Ave at 50th St.
+100057316,2019-03,0,8th Ave at 50th St.
+100057316,2019-04,0,8th Ave at 50th St.
+100057316,2019-05,0,8th Ave at 50th St.
+100057316,2019-06,78276,8th Ave at 50th St.
+100057316,2019-07,375692,8th Ave at 50th St.
+100057316,2019-08,119755,8th Ave at 50th St.
+100057316,2019-09,94588,8th Ave at 50th St.
+100057316,2019-10,85883,8th Ave at 50th St.
+100057316,2019-11,68708,8th Ave at 50th St.
+100057316,2019-12,75841,8th Ave at 50th St.
+100057316,2020-01,99264,8th Ave at 50th St.
+100057316,2020-02,162392,8th Ave at 50th St.
+100057316,2020-03,125447,8th Ave at 50th St.
+100057316,2020-04,53898,8th Ave at 50th St.
+100057316,2020-05,91703,8th Ave at 50th St.
+100057316,2020-06,48114,8th Ave at 50th St.
+100057318,2019-06,17563,Broadway at 50th St
+100057318,2019-07,34200,Broadway at 50th St
+100057318,2019-08,39471,Broadway at 50th St
+100057318,2019-09,42052,Broadway at 50th St
+100057318,2019-10,14724,Broadway at 50th St
+100057318,2019-11,2959,Broadway at 50th St
+100057318,2019-12,6704,Broadway at 50th St
+100057318,2020-01,1034,Broadway at 50th St
+100057318,2020-02,0,Broadway at 50th St
+100057318,2020-03,0,Broadway at 50th St
+100057318,2020-04,0,Broadway at 50th St
+100057318,2020-05,0,Broadway at 50th St
+100057318,2020-06,0,Broadway at 50th St
+100057319,2019-10,170715,Amsterdam Ave at 86th St.
+100057319,2019-11,519575,Amsterdam Ave at 86th St.
+100057319,2019-12,85646,Amsterdam Ave at 86th St.
+100057319,2020-01,47135,Amsterdam Ave at 86th St.
+100057319,2020-02,76540,Amsterdam Ave at 86th St.
+100057319,2020-03,58383,Amsterdam Ave at 86th St.
+100057319,2020-04,28782,Amsterdam Ave at 86th St.
+100057319,2020-05,45196,Amsterdam Ave at 86th St.
+100057319,2020-06,23888,Amsterdam Ave at 86th St.
+100057320,2019-10,11423,Columbus Ave at 86th St.
+100057320,2019-11,40649,Columbus Ave at 86th St.
+100057320,2019-12,30336,Columbus Ave at 86th St.
+100057320,2020-01,37888,Columbus Ave at 86th St.
+100057320,2020-02,61872,Columbus Ave at 86th St.
+100057320,2020-03,48357,Columbus Ave at 86th St.
+100057320,2020-04,22985,Columbus Ave at 86th St.
+100057320,2020-05,38529,Columbus Ave at 86th St.
+100057320,2020-06,19929,Columbus Ave at 86th St.
